@@ -1,0 +1,14 @@
+$them-colors :(
+'primary':  #845ec1 ,
+'danger':   #c24b37   ,
+'info':     #00c9a8
+
+);
+@import 'bootstrap/scss/bootstrap';
+
+
+.separator-right{
+border-right: 3px  solid rgb(255, 255, 255,0.2);
+padding-right: 1.2rem;
+
+}
